@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Pederedla Jaswanth <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
- <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full-Stack+Web+Developer;Computer+Science+Student;Always+learning+new+things;&center=true&width=500&height=50&font=georgia"></a>
+ <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full-Stack+Web+Developer;Computer+Science+Student;Always+learning+new+things;&center=true&width=500&height=50&font=georgia&color=F7F7F7"></a>
 </p>
 <hr/>
 <h4 align="center">I am a Computer Science Engineering student at IIIT Sri City with a strong foundation in full-stack development. I have hands-on experience building scalable web applications and have demonstrated leadership through successful hackathon participation and effective project management. Passionate developer with a love for problem-solving and creating innovative solutions. Always eager to learn new technologies and collaborate on exciting projects.</h4>
