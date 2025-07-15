@@ -5,11 +5,11 @@
 <hr/>
 <h4 align="center">I am a Computer Science Engineering student at IIIT Sri City with a strong foundation in full-stack development. I have hands-on experience building scalable web applications and have demonstrated leadership through successful hackathon participation and effective project management. Passionate developer with a love for problem-solving and creating innovative solutions. Always eager to learn new technologies and collaborate on exciting projects.</h4>
 <br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Jaswanth07P&label=Jaswanth's%20Profile%20Views%20&color=dc143c&style=plastic" alt="Jaswanth07P" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=jaswanth-pederedla&label=Jaswanth's%20Profile%20Views%20&color=dc143c&style=plastic" alt="jaswanth-pederedla" /> </p>
 
 ## 🔥 Streak Stats
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Jaswanth07P&theme=algolia" alt="Jaswanth07P" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaswanthk07&theme=algolia" alt="jaswanthk07" /></p>
 
 ## 🛠️ My Skills
 
@@ -137,10 +137,10 @@
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/Jaswanth07P"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Jaswanth07P&show_icons=true&locale=en&theme=algolia" alt="Jaswanth07P" height="192px"/></a>
+    <a href="https://github.com/jaswanth-pederedla"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jaswanth-pederedla&show_icons=true&locale=en&theme=algolia" alt="jaswanth-pederedla" height="192px"/></a>
 	</p>
 	<p  align="center">
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jaswanth07P&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Jaswanth07P" height="192px"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jaswanth-pederedla&show_icons=true&locale=en&layout=compact&theme=algolia" alt="jaswanth-pederedla" height="192px"/>
 	</p>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
@@ -150,7 +150,7 @@
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-	<a href="https://github.com/Jaswanth07P"><img alt="Jaswanth's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Jaswanth07P&custom_title=Jaswanth%20Pederedla's%20Contribution%20Graph&theme=react-dark" /></a>
+	<a href="https://github.com/jaswanth-pederedla"><img alt="Jaswanth's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=jaswanth-pederedla&custom_title=Jaswanth%20Pederedla's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 </details>
 
@@ -160,7 +160,7 @@
 
 <p align="center">
   <a href="mailto:jaswanth.p22@iiits.in"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
-	<a href="https://github.com/Jaswanth07P"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://github.com/jaswanth-pederedla"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/jaswanth-pederedla/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://x.com/Jaswanth3007k"><img src="https://img.icons8.com/bubbles/50/000000/x.png" alt="Twitter"/></a>
 </p>
