@@ -9,7 +9,7 @@
 
 ## 🔥 Streak Stats
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaswanthk07&theme=algolia" alt="jaswanthk07" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaswanth-pederedla&theme=algolia" alt="jaswanth-pederedla" /></p>
 
 ## 🛠️ My Skills
 
