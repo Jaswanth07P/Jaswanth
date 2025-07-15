@@ -8,9 +8,11 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jaswanth-pederedla&label=Jaswanth's%20Profile%20Views%20&color=dc143c&style=plastic" alt="jaswanth-pederedla" /> </p>
 
 ## 🔥 Streak Stats
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=jaswanth-pederedla&theme=blueberry-duo&short_numbers=true" alt="GitHub Streak" /></a>
-
-
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=jaswanth-pederedla&theme=blueberry-duo&short_numbers=true" alt="GitHub Streak" />
+  </a>
+</p>
 
 ## 🛠️ My Skills
 
