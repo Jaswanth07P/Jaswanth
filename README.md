@@ -6,6 +6,7 @@
 <h4 align="center">I am a Computer Science Engineering student at IIIT Sri City with a strong foundation in full-stack development. I have hands-on experience building scalable web applications and have demonstrated leadership through successful hackathon participation and effective project management. Passionate developer with a love for problem-solving and creating innovative solutions. Always eager to learn new technologies and collaborate on exciting projects.</h4>
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jaswanth-pederedla&label=Jaswanth's%20Profile%20Views%20&color=dc143c&style=plastic" alt="jaswanth-pederedla" /> </p>
+
 ## 🔥 Streak Stats
 <p align="center">
   <a href="https://git.io/streak-stats">
